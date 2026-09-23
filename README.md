@@ -20,7 +20,9 @@ Demonstrate data-at-rest security and public-exposure prevention - a commonly te
 - **Encryption in Transit:** ACM certificate (us-east-1) for CloudFront, TLS 1.2+ enforced
 - **Auditing:** Server Access Logging enabled to separate log bucket `mu-beauty-logs` with prefix `access-logs/`
 
-![Live Site](screenshots/site.png)
+## 📸 Live Site Preview
+![MU Beauty Salon - Live Site](screenshots/site.png)
+
 ### Bucket Policy (Least-Privilege)
 ```json
 {
