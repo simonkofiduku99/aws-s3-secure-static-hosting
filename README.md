@@ -21,7 +21,7 @@ Demonstrate data-at-rest security and public-exposure prevention - a commonly te
 - **Auditing:** Server Access Logging enabled to separate log bucket `mu-beauty-logs` with prefix `access-logs/`
 
 ## 📸 Live Site Preview
-![MU Beauty Salon - Live Site](screenshot/site.png)
+![MU Beauty Salon - Live Site](site.png)
 
 ### Bucket Policy (Least-Privilege)
 ```json
